@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: e99c1224aa4606540ba28c90f9b0b00e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI Game Pig-01 (1)_0
+  - first:
+      213: 21300002
+    second: UI Game Pig-01 (1)_1
+  - first:
+      213: 21300004
+    second: UI Game Pig-01 (1)_2
+  - first:
+      213: 21300006
+    second: UI Game Pig-01 (1)_3
+  - first:
+      213: 21300008
+    second: UI Game Pig-01 (1)_4
+  - first:
+      213: 21300010
+    second: UI Game Pig-01 (1)_5
+  - first:
+      213: 21300012
+    second: UI Game Pig-01 (1)_6
+  - first:
+      213: 21300014
+    second: UI Game Pig-01 (1)_7
+  - first:
+      213: 21300016
+    second: UI Game Pig-01 (1)_8
+  - first:
+      213: 21300018
+    second: UI Game Pig-01 (1)_9
+  - first:
+      213: 21300020
+    second: UI Game Pig-01 (1)_10
+  - first:
+      213: 21300022
+    second: UI Game Pig-01 (1)_11
+  - first:
+      213: 21300024
+    second: UI Game Pig-01 (1)_12
+  - first:
+      213: 21300026
+    second: UI Game Pig-01 (1)_13
+  - first:
+      213: 21300028
+    second: UI Game Pig-01 (1)_14
+  - first:
+      213: 21300030
+    second: UI Game Pig-01 (1)_15
+  - first:
+      213: 21300032
+    second: UI Game Pig-01 (1)_16
+  - first:
+      213: 21300034
+    second: UI Game Pig-01 (1)_17
+  - first:
+      213: 21300036
+    second: UI Game Pig-01 (1)_18
+  - first:
+      213: 21300038
+    second: UI Game Pig-01 (1)_19
+  - first:
+      213: 21300040
+    second: UI Game Pig-01 (1)_20
+  - first:
+      213: 21300042
+    second: UI Game Pig-01 (1)_21
+  - first:
+      213: 21300044
+    second: UI Game Pig-01 (1)_22
+  - first:
+      213: 21300046
+    second: UI Game Pig-01 (1)_23
+  - first:
+      213: 21300048
+    second: UI Game Pig-01 (1)_24
+  - first:
+      213: 21300050
+    second: UI Game Pig-01 (1)_25
+  - first:
+      213: 21300052
+    second: UI Game Pig-01 (1)_26
+  - first:
+      213: 21300054
+    second: UI Game Pig-01 (1)_27
+  - first:
+      213: 21300056
+    second: UI Game Pig-01 (1)_28
+  - first:
+      213: 21300058
+    second: UI Game Pig-01 (1)_29
+  - first:
+      213: 21300060
+    second: UI Game Pig-01 (1)_30
+  - first:
+      213: 21300062
+    second: UI Game Pig-01 (1)_31
+  - first:
+      213: 21300064
+    second: UI Game Pig-01 (1)_32
+  - first:
+      213: 21300066
+    second: UI Game Pig-01 (1)_33
+  - first:
+      213: 21300068
+    second: UI Game Pig-01 (1)_34
+  - first:
+      213: 21300070
+    second: UI Game Pig-01 (1)_35
+  - first:
+      213: 21300072
+    second: UI Game Pig-01 (1)_36
+  - first:
+      213: 21300074
+    second: UI Game Pig-01 (1)_37
+  - first:
+      213: 21300076
+    second: UI Game Pig-01 (1)_38
+  - first:
+      213: 21300078
+    second: UI Game Pig-01 (1)_46
+  - first:
+      213: 21300080
+    second: UI Game Pig-01 (1)_47
+  - first:
+      213: 21300082
+    second: UI Game Pig-01 (1)_48
+  - first:
+      213: 21300084
+    second: UI Game Pig-01 (1)_49
+  - first:
+      213: 21300086
+    second: UI Game Pig-01 (1)_39
+  - first:
+      213: 21300088
+    second: UI Game Pig-01 (1)_40
+  - first:
+      213: 21300090
+    second: UI Game Pig-01 (1)_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1555
+        width: 144
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae122f620b96f71459b3aa9be641ffe0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1555
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ffcdb5ad22164eba8c12430d27433
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1555
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd224b2e2711ad428702f65b746cf21
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1555
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d508ffc8673fa4892866ab9afaa1d8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1555
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241da474a38e8342aceb1ea645ec844
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1555
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc147e0f5b9794088ad81cf8104393
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1555
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb2f3bff0646474b8fcab10bd82bcdb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1325
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d1cd584dcc0b4980b897493eac730
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1325
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf293a51d6684f4eacaa1b7e7d59958
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1325
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff9c4c9d15d5c4fbc1f61d0dfe802b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1327
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f8e0f44b28f7b468159fa752f736ce
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1327
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60170310808d0f458a35688bdf242bc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1327
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f33a3b94b3314389ef84fff132ed7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1327
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c195a5ff4fbbbb4f9d46277088c0cdb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1327
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675752906f55734ca54bcf514c43662
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1327
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535bf6814c69a0f49aba14e9132894f0
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1122
+        width: 245
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b45acb4f11609479a70479f7654713
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1122
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266f1c27095ebcf4cb24734154779fa0
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1122
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c18f785c030a743b2ed6d41c3965c0
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1122
+        width: 244
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f11ab0ea33ae745a2d44820f98d032
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1122
+        width: 224
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3febde7b438654e4490d942361c2a5a2
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1119
+        width: 328
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab24de2a10418244fa99822d0994406e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 761
+        width: 379
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff59f12703898be42abfa8bf27346e95
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 928
+        width: 186
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a203b4e0c9fa44b4d99a3853d36abc44
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 915
+        width: 323
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce60890ffbb373e4eb41b371da25198e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 914
+        width: 301
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f07b17cf7be6479960bbdbab67d26
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 832
+        width: 252
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fbec01e9af78444aa1bc97d3fb490e
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 680
+        width: 216
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88244be9dbd659d469ae9de136e76ea3
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 828
+        width: 145
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29cf6e8fd52d44f8d1e4b9f30f61dd
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 826
+        width: 222
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe02c091a81c614f8c10eabde16d253
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 820
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5540e37d635440b3462c6f2bf2460
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 363
+        width: 387
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749f992f190b69478d0b6602216ccff
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 699
+        width: 169
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c9554969757e45978d5f94eef0978
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 667
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5805cecd6edf14094e35edfd590e1c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 679
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f49bcba4d57d4196b50613dd8c333
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 688
+        width: 469
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd497c6e61ad24f4d9bc427e56dedaa8
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 470
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c505d8603596842a88d7442dcb4fbc
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 601
+        width: 138
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07941bd94cfb53845874f75fe7c8f1f1
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 511
+        width: 583
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0a90c6857bb3429421023b62f4840
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 526
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59c1bb39c8a9245afd1752d95bfaaf
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 426
+        width: 338
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af96bb32d08a1d4f91d7bab471af855
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 454
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d269d77d45d21ed4fbbc8e246ed2ddd7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 362
+        width: 583
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d3b65e14d736840bd64e663df7df5f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 826
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51002dbbce7dfbe4e9a23b43ce95907b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 827
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705809fe2fbb444e9e3f02c493799b6
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Game Pig-01 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 74
+        width: 235
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44823890141248d40a7f31433bb110c8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
