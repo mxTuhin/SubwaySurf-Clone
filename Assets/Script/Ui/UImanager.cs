@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.Rendering;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.Remoting.Messaging;
 
 //using NaveedPkg;  99
 
@@ -1479,6 +1480,39 @@ public class UImanager : MonoBehaviour {
             showyouhaveHeadstar.text = "You have : " + managerdata.manager.GetFly();
 
         }
+    }
+    
+    [Header("Buy Keys")]
+    public GameObject buyInfo;
+    public Text hoverStoreCoinText;
+    public Text hoverStoreKeysText;
+    
+    
+    public void ClicBuyLifeKey()
+    {
+        if (managerdata.manager.Getcoin() >=20)
+        {
+            managerdata.manager.savecoin(-20);
+            managerdata.manager.savekey(3);
+            hoverStoreKeysText.text = managerdata.manager.getkey().ToString();
+            hoverStoreCoinText.text = managerdata.manager.Getcoin().ToString();
+            buyInfo.SetActive(true);
+            buyInfo.GetComponentInChildren<Text>().text = "Added 3 Keys";
+            StartCoroutine(deactivateInfo());
+
+        }
+        else
+        {
+            buyInfo.SetActive(true);
+            buyInfo.GetComponentInChildren<Text>().text = "Not Enough";
+            StartCoroutine(deactivateInfo());
+        }
+    }
+
+    IEnumerator deactivateInfo()
+    {
+        yield return new WaitForSeconds(1.0f);
+        buyInfo.SetActive(false);
     }
 
 

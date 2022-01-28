@@ -184,7 +184,7 @@ public class Canvatbuyshop : MonoBehaviour
                 if (managerdata.manager.GetCharacternvchinh() == 0)
                 {
                     cost.text = "BUY 0.99$";
-                    IAp.productId = "player1";
+                    IAp.productId = "com.scorpionsstudio.puppydog.player1";
                     price = 95000;
                 }
                 else
@@ -228,7 +228,7 @@ public class Canvatbuyshop : MonoBehaviour
                 {
                     cost.text = "BUY 0.99$";
                     price = 66000;
-                    IAp.productId = "player2";
+                    IAp.productId = "com.scorpionsstudio.puppydog.player2";
                 }
                 else
                 {
