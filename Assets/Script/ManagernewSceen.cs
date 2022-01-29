@@ -25,7 +25,7 @@ public class ManagernewSceen : MonoBehaviour {
         {
             tho[i].SetActive(false);
         }
-        thotrenxe.SetActive(true);
+        // thotrenxe.SetActive(true);
     }
 	
 	// Update is called once per frame
@@ -63,7 +63,7 @@ public class ManagernewSceen : MonoBehaviour {
                 tho[i].SetActive(true);
             }
         }
-        thotrenxe.SetActive(false);
+        // thotrenxe.SetActive(false);
         yield return new WaitForSeconds(2);
         CarmuVingitro.SetActive(false);
 

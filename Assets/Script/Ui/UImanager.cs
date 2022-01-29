@@ -77,6 +77,8 @@ public class UImanager : MonoBehaviour {
     public Text ShowHighscor3D;
     // Use this for initialization
     public int frameRate = 60;
+
+    [Header(("Panel Shop Items"))] public GameObject panelShop;
     void Awake()
     {
        
@@ -599,7 +601,7 @@ public class UImanager : MonoBehaviour {
             // AdmobManager._AdMobInstance.showInterstitial();
         //    MyPkgManager.Instance.ShowAdmobInterstitial(); 99
         
-        InterAd.instance.GameOver();
+        // InterAd.instance.GameOver();
 
         }
 		
@@ -1481,6 +1483,11 @@ public class UImanager : MonoBehaviour {
 
         }
     }
+
+    public void panelShopOpen()
+    {
+        panelShop.SetActive(true);
+    }
     
     [Header("Buy Keys")]
     public GameObject buyInfo;
@@ -1490,9 +1497,9 @@ public class UImanager : MonoBehaviour {
     
     public void ClicBuyLifeKey()
     {
-        if (managerdata.manager.Getcoin() >=20)
+        if (managerdata.manager.Getcoin() >=2000)
         {
-            managerdata.manager.savecoin(-20);
+            managerdata.manager.savecoin(-2000);
             managerdata.manager.savekey(3);
             hoverStoreKeysText.text = managerdata.manager.getkey().ToString();
             hoverStoreCoinText.text = managerdata.manager.Getcoin().ToString();
